@@ -52,6 +52,7 @@ const forwardPropsList = {
   pointerEvents: true,
   ref: true,
   style: true,
+  suppressHydrationWarning: true,
   testID: true,
   // unstable
   dataSet: true,
